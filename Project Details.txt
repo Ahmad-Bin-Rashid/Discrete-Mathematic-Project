@@ -1,0 +1,56 @@
+Mini Project : Exploring Graph Theory and Number Theory in Computational Applications
+
+
+Question 1: Analysis of Games Using Graph Theory
+
+	(a) Investigate how certain games can be represented and analyzed using graph theory.(at least two games)
+
+	(b) Is Tic-Tac-Toe an example of a game that can be represented with graphs? Describe the graph and what 
+	    you are trying to achieve or avoid. Consider studying Tic-Tac-Toe generalizations.
+
+Question 2: Programming Tasks in Graph Theory
+
+	Write programs to solve the following tasks related to graphs:
+
+	(a) Undirected Graph Degrees: Given the vertex pairs associated to the
+	    edges of an undirected graph, find the degree of each vertex.
+
+	(b) Directed Graph Degrees: For a directed graph (given as ordered vertex
+	    pairs), determine the in-degree and out-degree of each vertex.
+
+	(c) Bipartite Graph Check: Given the list of edges of a simple graph, determine
+	    whether the graph is bipartite.
+	
+	(d) Adjacency Matrix Creation: Given the vertex pairs associated to the edges
+	    of a graph, construct an adjacency matrix for the graph. (Produce a version that works
+	    when loops, multiple edges, or directed edges are present.)
+
+	(e) Edge Listing from Adjacency Matrix: Given an adjacency matrix of a
+	    graph, list the edges of this graph and give the number of times each edge appears.
+
+	(f) Incidence Matrix Construction: Create an incidence matrix for an
+	    undirected graph, given vertex pairs and the frequency of each edge.
+
+
+Question 3: Programming Tasks in Number Theory
+	Develop programs to perform the following number theory operations:
+
+	(a) Prime Factorization: Given a positive integer, find its prime factorization.
+
+	(b) Euclidean Algorithm for GCD: Given two positive integers, find their
+	    greatest common divisor using the Euclidean algorithm.
+
+	(c) LCM Calculation: Find the least common multiple of two positive integers.
+
+	(d) Bezout Coefficients: For positive integers a and b, find Bezout coefficients
+	    s and t.
+
+	(e) Modular Inverse: Find the inverse of a modulo b for relatively prime
+	    integers a and b.
+
+	(f) RSA Encryption: Given a message and an integer n = pq where p and q are
+	    odd primes and an integer e > 1 relatively prime to (p − 1)(q − 1), encrypt the message
+	    using the RSA cryptosystem with key (n, e).
+
+	(g) RSA Decryption Key: Given a valid RSA key (n, e), and the primes p and q
+	    with n = pq, find the associated decryption key d.
